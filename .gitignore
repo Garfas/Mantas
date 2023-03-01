@@ -1,0 +1,5 @@
+__pycache__
+first_myvenv
+.vscode/*
+Pipfile
+Pipfile.lock
